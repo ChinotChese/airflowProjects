@@ -65,4 +65,4 @@ def extract_vn():
         path = 'data/w_get_stock_alert_noti/{}.csv'.format(fields[a])
         df.to_csv(path, index=False)
 
-        
+# check change for dev
